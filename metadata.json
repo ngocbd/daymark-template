@@ -1,0 +1,6 @@
+{
+  "name": "Daymark — Healthcare Workforce Management",
+  "description": "Hệ thống quản lý lực lượng lao động chuyên biệt cho ngành y tế: phân ca, chấm công GPS & sinh trắc học, nghiệp vụ Daymark, hợp đồng điện tử, đào tạo y khoa và tính lương tự động.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
